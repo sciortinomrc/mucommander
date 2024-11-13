@@ -1,5 +1,8 @@
 # muCommander
 
+
+[![security status](https://www.meterian.io/badge/pb/f756a403-f51d-4cee-a521-2d819d0ed7ff/security)](https://www.meterian.io/projects/?pid=f756a403-f51d-4cee-a521-2d819d0ed7ff) [![stability status](https://www.meterian.io/badge/pb/f756a403-f51d-4cee-a521-2d819d0ed7ff/stability)](https://www.meterian.io/projects/?pid=f756a403-f51d-4cee-a521-2d819d0ed7ff) [![licensing status](https://www.meterian.io/badge/pb/f756a403-f51d-4cee-a521-2d819d0ed7ff/licensing)](https://www.meterian.io/projects/?pid=f756a403-f51d-4cee-a521-2d819d0ed7ff)
+
 [![Version](http://img.shields.io/badge/version-0.9.7-blue.svg?style=flat)](https://github.com/mucommander/mucommander/releases/tag/nightly)
 [![License](http://img.shields.io/badge/License-GPL-blue.svg)](http://www.gnu.org/copyleft/gpl.html)
 [![Build Status](https://travis-ci.org/mucommander/mucommander.svg)](https://travis-ci.org/mucommander/mucommander)
